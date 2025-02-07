@@ -29,7 +29,8 @@ function performOperation(secondInteger, secondDecimal, secondString) {
     console.log(Number(secondDecimal)+firstDecimal);
     
     // Write code that uses console.log to print the concatenation of 'firstString' and 'secondString' on a new line. The        variable 'firstString' must be printed first.
-    console.log(firstString + secondString);
+    console.log(firstString + secondString); 
 }
 
+// Example
 performOperation(12, 4.32, "is the best place to learn and practice coding!");
